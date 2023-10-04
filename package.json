@@ -9,7 +9,7 @@
   "files": [
     "solarweb.js"
   ],
-  "author": "MrAlexand0r",
+  "author": "arvati",
   "license": "ISC",
   "keywords": [
     "webscraper",
@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/MrAlexand0r/solarweb-scraper"
+    "url": "https://github.com/edifast/solarweb-scraper"
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
